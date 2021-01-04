@@ -11,6 +11,7 @@ To start the app:
 Admin login credentials:
 
 Username: admin@test.com
+
 Password: admin123
 
 Requirements:
